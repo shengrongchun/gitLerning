@@ -1,4 +1,4 @@
-git push 总是要输入用户名和密码111
+git push 总是要输入用户名和密码
 
 git remote -v
 

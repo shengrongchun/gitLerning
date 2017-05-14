@@ -1,12 +1,7 @@
-Ã¿´Îpushµ½Ô¶³Ì¿â¶¼ÒªÊäÈëÓÃ»§ÃûºÍÃÜÂë£¿
-
-
-ÔÚÌí¼ÓÔ¶³Ì¿âµÄÊ±ºòÊ¹ÓÃÁËhttpsµÄ·½Ê½¡£¡£ËùÒÔÃ¿´Î¶¼ÒªÓÃhttpsµÄ·½Ê½pushµ½Ô¶³Ì¿â£¬ËÙ¶È»¹Âı¡£¡£
-
-²é¿´Ê¹ÓÃµÄ´«ÊäĞ­Òé£º
+git push æ€»æ˜¯è¦è¾“å…¥ç”¨æˆ·åå’Œå¯†ç 
 
 git remote -v
-ÖØĞÂÉèÖÃ³ÉsshµÄ·½Ê½£º
+
 
 git remote rm origin
 git remote add origin git@github.com:username/repository.git
